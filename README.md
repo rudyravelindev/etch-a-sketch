@@ -19,7 +19,7 @@ This project is a browser version of something between a sketchpad and an Etch-A
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/etch-a-sketch/)
+[View Live Demo](https://rudyravelindev.github.io/etch-a-sketch/)
 
 ## 📸 Screenshot
 
@@ -50,7 +50,7 @@ This project is a browser version of something between a sketchpad and an Etch-A
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/etch-a-sketch.git
+   git clone https://github.com/rudyravelindev/etch-a-sketch
 ```
 
 2. Navigate to the project folder:
