@@ -17,9 +17,15 @@
 }
 
 #container {
-  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(242, 2, 2);
   max-width: 1000px;
   height: 1000px;
   background-color: white;
   margin: auto;
+}
+#container > div {
+  border: 1px solid black;
+  background-color: white;
 }
