@@ -1,12 +1,16 @@
 const container = document.getElementById('container');
 
-const rectangle = container.getBoundingClientRect();
 const containerWidth = container.clientWidth;
 const newGridButton = document.getElementById('btn-newGrid');
 newGridButton.addEventListener('click', createNewGrid);
 
 function divBackground(event) {
-  event.target.style.backgroundColor = 'blue';
+  const red = Math.floor(Math.random() * 256);
+  const green = Math.floor(Math.random() * 256);
+  const blue = Math.floor(Math.random() * 256);
+  const randomColor = `rgb(${red}, ${green}, ${blue})`;
+
+  event.target.style.backgroundColor = randomColor;
 }
 function gridSizing(gridSize) {
   container.replaceChildren();
