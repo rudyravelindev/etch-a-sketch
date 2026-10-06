@@ -28,4 +28,5 @@
 #container > div {
   border: 1px solid black;
   background-color: white;
+  box-sizing: border-box;
 }
