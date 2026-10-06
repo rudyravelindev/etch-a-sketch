@@ -73,8 +73,8 @@ etch-a-sketch/
 
 ## 🎨 Extra Credit Features *(Optional)*
 
-- [ ] **Random RGB Colors** — Each interaction randomizes the square's RGB values
-- [ ] **Progressive Darkening** — Each interaction darkens the square by 10%, achieving full black in 10 passes (using the `opacity` CSS property)
+- [x ] **Random RGB Colors** — Each interaction randomizes the square's RGB values
+- [x ] **Progressive Darkening** — Each interaction darkens the square by 10%, achieving full black in 10 passes (using the `opacity` CSS property)
 
 ## 📝 Assignment Source
 
@@ -86,4 +86,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with 💻 as part of The Odin Project curriculum.
+Built with ♡  as part of The Odin Project curriculum.
